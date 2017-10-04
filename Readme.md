@@ -1,6 +1,17 @@
+To start the app:
+
+ensure mongo and python is there and mongo is running on 27017
+
+```
+virtualenv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python main.py
+```
+
+
 
 fb login :
-
 ```
 curl -X POST \
   http://localhost:5001/login \
