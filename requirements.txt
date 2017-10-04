@@ -1,0 +1,10 @@
+flask
+flask-cors
+requests
+bs4
+celery
+asyncio
+pymongo
+redis
+flask-login
+flask-jwt-extended
